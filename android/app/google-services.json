@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523521391104",
+    "project_id": "flutter-firebase-ff30e",
+    "storage_bucket": "flutter-firebase-ff30e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523521391104:android:3af79c10cd48a1058036e5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_listaproductos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HAa5NWQ8C69FPefRtP8NxSFohPNG_Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
